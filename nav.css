@@ -1,0 +1,81 @@
+.navbar-expand-lg{
+background-image: url(https://lh6.googleusercontent.com/-9ujYAXFGEYg/T7jZteiALxI/AAAAAAAAAFY/cg334BrxzaQ/h120/nbg.gif);
+background-color: transparent;
+background-repeat-x: repeat;
+background-repeat-y: no-repeat;
+background-size: 57px 57px;
+}
+.jumbotron{
+	color: #ff9933;
+	background-color: #8533ff;
+	font-family: 'Eater', cursive;
+}
+.jumbotron p{
+	font-family: 'Eater', cursive;
+}
+body{
+	background: url(https://i.stack.imgur.com/jGlzr.png);
+}
+
+	
+	.blo{
+	border: 20px solid #660033;
+	max-width: 1120px;
+	width: 80%;
+	padding-top: 40px;
+	padding-left: 20px;
+	padding-right: 20px;
+	/*text-align: center;*/
+	margin: 20px auto;
+	
+}
+h2{
+	font-family: 'Orbitron', sans-serif;
+}
+p{
+	font-family: 'Philosopher', sans-serif;
+	font-weight: bold;
+}
+.quote{
+	border-left: 8px solid #660033;
+	padding-left: 5px;
+}
+.date{
+	text-transform: uppercase;
+	letter-spacing: .2rem;
+	color: #80ffff;
+}
+h2{
+	font-size: 2.0rem;
+}
+.date2{
+	text-transform: uppercase;
+	letter-spacing: .2rem;
+	color: #80ffff;
+}
+.quote1{
+	border-left: 8px solid #660033;
+	padding-left: 5px;
+
+}
+
+
+/* Glyph, by Harry Roberts */
+
+hr.style-eight {
+    overflow: visible; /* For IE */
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+hr.style-eight:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
+}
